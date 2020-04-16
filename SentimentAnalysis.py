@@ -5,7 +5,7 @@ Created on Mon Jul 17 21:26:59 2017
 
 @author: alexanderhoward
 """
-#oython2.6
+#python2.6
 import time
 from tweepy import Stream
 from tweepy import OAuthHandler
